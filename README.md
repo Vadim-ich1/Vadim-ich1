@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="www.linkedin.com/in/vadim-makoev-82aa963ab">
+  <a href="https://www.linkedin.com/in/vadim-makoev-82aa963ab">
     <img src ="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt= "LinkedIn"/>
   <a/>
   <a href="https://t.me/Monahui0">
